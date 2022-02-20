@@ -1,10 +1,10 @@
-f0facccdcfaeff162ca34aa5be64cd8b *DESCRIPTION
+42147dd5f33a3cd11b9231baa02d3253 *DESCRIPTION
 7c5da89d9eb3028dc51176195a7a6023 *LICENSE
 1a70973e19ea1fc957878ddea590574c *NAMESPACE
-20ddd6a79fefaa299ad7bd298405f892 *NEWS.md
-3cf7cf1d81b440f8102f3e7722cf0305 *R/bcp.R
+25979c0a1d5d30554baa138634bd7b17 *NEWS.md
+748493dac08a9c6fee1d407420c87b1b *R/bcp.R
 bee9a4cc9a25f29c6e3524e4f84729de *README.md
 45248d5f9cf1204e36b31eea56c09193 *man/bcpExport.Rd
-9aca82d874dc8485334476a6e7c7e0f3 *man/bcpImport.Rd
+08b9e67e49ba637c5e9d5b415e60a6d4 *man/bcpImport.Rd
 d311b8ea2f6934198fb81564c603aaab *man/figures/benchmarks.png
 2228167d508f60afdc811fac843fd40a *man/figures/logo.png
