@@ -1,3 +1,12 @@
+# bcputility 0.4.3
+
+* An error is now thrown for cases where a projection has an EPSG that is `NA`.
+
+* Added ability to turn on QUOTED_IDENTIFIERS. This is required for some 
+Microsoft database products. Use the bcp "-q" option.
+
+* Column names are quoted so that reserved words can be used.
+
 # bcputility 0.4.0
 
 * Override/set path to sqlcmd with 
